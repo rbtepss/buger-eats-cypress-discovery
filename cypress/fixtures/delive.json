@@ -1,0 +1,18 @@
+{
+    "name_inv": {
+        "name": "teste teste",
+        "cpf": "06210874401",
+        "email": "teste@testeqa.com",
+        "whatsapp": "81999999999",
+        "address": {
+            "postalCode": "51240810",
+            "street": "Rua Pederneiras",
+            "number": "116",
+            "details": "Casa",
+            "district": "Ibura",
+            "city_State": "Recife/PE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
